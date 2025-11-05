@@ -11,4 +11,4 @@ This guide explains how to import the mailFilters.xml file into your Gmail accou
 
 4. Upload the File: Click "Choose File", select the XML file you created (e.g., mailFilters.xml), and then click "Open File".
 
-5. Finalize Import: Click the "Import Filters" button. The new filters (for @backlog.jp and @cacoo.com) will now be active for all new incoming emails.
+5. Finalize Import: Click the "Create Filters" button. The new filters (for @backlog.jp and @cacoo.com) will now be active for all new incoming emails.

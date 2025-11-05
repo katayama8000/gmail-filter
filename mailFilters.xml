@@ -2,7 +2,7 @@
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
   <title>Mail Filters</title>
   <id>tag:mail.google.com,2008:filters</id>
-  <updated>2025-10-09T09:20:00Z</updated>
+  <updated>2025-11-05T09:20:00Z</updated>
   <author>
     <name>Your Name</name>
     <email>your_email@gmail.com</email>
@@ -19,5 +19,29 @@
     <apps:property name='from' value='@cacoo.com'/>
     <apps:property name='label' value='cacoo'/>
   </entry>
-  
+
+  <entry>
+    <category term='filter'/>
+    <apps:property name='from' value='@no-reply@apps.nulab.com'/>
+    <apps:property name='label' value='nulab-apps'/>
+  </entry>  
+
+  <entry>
+    <category term='filter'/>
+    <apps:property name='from' value='@gemini-notes@google.com'/>
+    <apps:property name='label' value='gemini-notes'/>
+  </entry>
+
+  <entry>
+    <category term='filter'/>
+    <apps:property name='from' value='@noreply@freee.co.jp'/>
+    <apps:property name='label' value='freee'/>
+  </entry>
+
+  <entry>
+    <category term='filter'/>
+    <apps:property name='from' value='@notification@slack.com'/>
+    <apps:property name='label' value='slack'/>
+  </entry>
+
 </feed>
