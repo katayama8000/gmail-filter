@@ -1,4 +1,3 @@
-<!-- WIP -->
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
   <title>Mail Filters</title>
@@ -23,26 +22,56 @@
 
   <entry>
     <category term='filter'/>
-    <apps:property name='from' value='@no-reply@apps.nulab.com'/>
-    <apps:property name='label' value='nulab-apps'/>
+    <apps:property name='from' value='@prime@amazon.co.jp'/>
+    <apps:property name='label' value='amazon-prime'/>
   </entry>  
 
   <entry>
     <category term='filter'/>
-    <apps:property name='from' value='@gemini-notes@google.com'/>
-    <apps:property name='label' value='gemini-notes'/>
+    <apps:property name='from' value='@support@findy-code.io'/>
+    <apps:property name='label' value='findy'/>
   </entry>
 
   <entry>
     <category term='filter'/>
-    <apps:property name='from' value='@noreply@freee.co.jp'/>
-    <apps:property name='label' value='freee'/>
+    <apps:property name='from' value='@no-reply@mail.lapras.com'/>
+    <apps:property name='label' value='lapras'/>
   </entry>
 
   <entry>
     <category term='filter'/>
-    <apps:property name='from' value='@notification@slack.com'/>
-    <apps:property name='label' value='slack'/>
+    <apps:property name='from' value='@jobs-noreply@linkedin.com'/>
+    <apps:property name='label' value='linkedin'/>
+  </entry>
+
+  <entry>
+    <category term='filter'/>
+    <apps:property name='from' value='@no_reply@email.apple.com'/>
+    <apps:property name='label' value='apple'/>
+  </entry>
+
+  <entry>
+    <category term='filter'/>
+    <apps:property name='from' value='@google-maps-noreply@google.com'/>
+    <apps:property name='label' value='google/maps'/>
+  </entry>
+
+  <entry>
+    <category term='filter'/>
+    <apps:property name='from' value='@noreply@github.com'/>
+    <apps:property name='label' value='github'/>
+  </entry>
+
+  <entry>
+    <category term='filter'/>
+    <apps:property name='from' value='@noreply@note.com'/>
+    <apps:property name='label' value='note'/>
+  </entry>
+
+  <entry>
+    <category term='filter'/>
+    <apps:property name='from' value='@automated@airbnb.com'/>
+    <apps:property name='label' value='airbnb'/>
   </entry>
 
 </feed>
